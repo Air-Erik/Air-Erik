@@ -1,5 +1,6 @@
 # Hi there, i am Erik 👋
 I'm an engineer designer of highways
+
 I set myself a goal to learn the basics of development in a year
 
 I'm currently learning a CS50 course at Harvard University
