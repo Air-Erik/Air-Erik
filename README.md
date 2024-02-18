@@ -1,21 +1,22 @@
-# Hi there, i am Erik 👋
-I'm an engineer designer of highways🛣️
+<h1 align="center">Hi there, i am Erik 👋</h1>
+Data science engineer, former highway design engineer🛣️
 
-I set myself a goal to learn the basics of development in a year👨🏽‍💻
+Education:
+- Master's degree in highway design engineering🎓
+- CS50 course at Harvard University.
+- OpenCV Tensorflow Keras course
+- Training courses on kaggel. Including courses on computer vision and machine learning
+- Сourse Data Science Specialist in Yandex.
 
-I'm currently learning a CS50 course at Harvard University🎓
-I have basic knowledge of 3 languages: C, Python, Visual LISP
-<!--
-**Air-Erik/Air-Erik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Work:
+- I am currently working as a machine learning specialist in a company that designs residential buildings and linear structures
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My development stack: C, Python, Visual LISP
+- Python
+  - NumPy
+  - Pandas
+  - Sklearn
+  - Matplotlib
+- OpenCV, TensorFlow, Keras, PyTorch, YOLO
+- PosgreSQL, Psycopg
+- Git, Bash
