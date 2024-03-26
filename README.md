@@ -17,6 +17,9 @@ My development stack: C, Python, Visual LISP
   - Pandas
   - Sklearn
   - Matplotlib
+  - Seaborn
+  - Optuna
+  - SHAP
 - OpenCV, TensorFlow, Keras, PyTorch, YOLO
-- PosgreSQL, Psycopg
+- PosgreSQL, Psycopg, PostQIS
 - Git, Bash
